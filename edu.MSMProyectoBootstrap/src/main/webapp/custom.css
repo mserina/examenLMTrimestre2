@@ -3,3 +3,8 @@
 .imagenBanner1{
 	width: 59rem;
 }
+
+body{
+	background-image:url(imagenesHtml/fondo.png);
+}
+
